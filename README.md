@@ -1,1 +1,2 @@
-№№№ Hi, I'm Uliana 
+Hi, I'm Uliana 
+I'm a student
